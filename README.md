@@ -7,30 +7,30 @@
 
  **📚#Certifications**<br><br>
  
- -Introduction of internet of things<br>
- -AWS Cloud Practitioner<br>
+ -Introduction of internet of things<br><br>
+ -AWS Cloud Practitioner<br><br>
 
 **#💻Internships**<br><br>
 
--Data Analytics<br>
--Web development<br>
+-Data Analytics<br><br>
+-Web development<br><br>
 
 **#🖥️Projects**<br><br>
 
-1.Salesforcecasting By MachineLearning<br>
-2.Passwordless Authendication for platform<br>
-3.Bus Routing and Scheduling Management System<br>
-4.Online Learning Platform -MindSpark<br>
-5.Online Pharmacy - HealthMart<br>
+1.Salesforcecasting By MachineLearning<br><br>
+2.Passwordless Authendication for platform<br><br>
+3.Bus Routing and Scheduling Management System<br><br>
+4.Online Learning Platform -MindSpark<br><br>
+5.Online Pharmacy - HealthMart<br><br>
 
 
 **#💪Skills**<br><br>
 
--JAVA<br>
--HTML<br>
--CSS<br>
--JavaScript<br>
--Tableau<br>
+-JAVA<br><br>
+-HTML<br><br>
+-CSS<br><br>
+-JavaScript<br><br>
+-Tableau<br><br>
 
 </body><br><br>
 
@@ -40,4 +40,3 @@
 </footer>
 
 
->
