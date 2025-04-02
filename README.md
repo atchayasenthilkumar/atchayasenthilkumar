@@ -22,11 +22,13 @@
 3.Bus Routing and Scheduling Management System<br><br>
 4.Online Learning Platform -MindSpark<br><br>
 5.Online Pharmacy - HealthMart<br><br>
-
+6.Language Learning Platform - GlobalTongue<br><br>
 
 **#💪Skills**<br><br>
 
 -JAVA<br><br>
+-SQL<br><br>
+-R<br><br>
 -HTML<br><br>
 -CSS<br><br>
 -JavaScript<br><br>
