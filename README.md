@@ -2,6 +2,8 @@
 👋Hi,I’m Atchayasenthilkumar✨
 </header></strong><br><br><br>
 <body>
+     <body class="bg-gray-100 flex justify-center items-center h-screen">
+     <div class="quiz-container bg-white p-8 rounded shadow-md text-center max-w-lg">
  👀 I’m CS passionate about building interactive and user-friendly applications. I specialize in webdevelopment💻 and data analytics📈. <br><br>
  🌱 I’m currently doing by UG degree in Computer Science at KRCE.<br><br>
 <button id="restart" class="mt-4 px-4 py-2 bg-blue-500 text-white rounded hidden>
