@@ -5,17 +5,17 @@
  👀 I’m CS passionate about building interactive and user-friendly applications. I specialize in webdevelopment💻 and data analytics📈. <br><br>
  🌱 I’m currently doing by UG degree in Computer Science at KRCE.<br><br>
 
- <h2><b>Certifications</b></h2><br><br>
+ <h2><b>📜Certifications</b></h2><br><br>
  
  -Introduction of internet of things<br><br>
  -AWS Cloud Practitioner<br><br>
 
-<h2><b>Internships</b></h2><br><br>
+<h2><b>🎓Internships</b></h2><br><br>
 
 -Data Analytics<br><br>
 -Web development<br><br>
 
-<h2><b>Projects</b></h2><br><br>
+<h2><b>🖥️ Projects</b></h2><br><br>
 
 1.Salesforcecasting By MachineLearning<br><br>
 2.Passwordless Authendication for platform<br><br>
@@ -39,4 +39,3 @@
 </footer>
 
 
->
