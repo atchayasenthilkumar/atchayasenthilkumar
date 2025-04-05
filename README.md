@@ -22,6 +22,7 @@
 3.Bus Routing and Scheduling Management System<br><br>
 4.Online Learning Platform -MindSpark<br><br>
 5.Online Pharmacy - HealthMart<br><br>
+6.Language Learning Platform - GlobalTongue<br><br>
 
 
 <h2><b>💪Skills </b></h2><br><br>
