@@ -3,7 +3,7 @@
 </header><br><br><br>
 <body>
  👀 I’m CS passionate about building interactive and user-friendly applications. I specialize in webdevelopment💻 and data analytics📈. <br><br>
- 🌱 I’m currently doing by UG degree in Computer Science at KRCE.<br><br>
+ 🌱 I’m currently doing my UG degree in Computer Science at KRCE.<br><br>
 
  <h2><b>📜Certifications</b></h2><br><br>
  
