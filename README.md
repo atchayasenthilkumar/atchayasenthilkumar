@@ -45,28 +45,30 @@
     </tr>
     <tr>
       <td>HSE (12th Grade)</td>
-      <td>ST.XAVIER'S HIGHER SECONDARY SCHOOL</td>
+      <td>St.Xavier's higher secondary school</td>
       <td>2022</td>
       <td>92.5</td>
     </tr>
     <tr>
       <td>SSLC (10th Grade)</td>
-      <td>ST.XAVIER'S HIGHER SECONDARY SCHOOL</td>
+      <td>St.Xavier's higher secondary school</td>
       <td>2020</td>
       <td>90</td>
     </tr>
   </tbody>
 </table>
-
+<br><br>
 
 
 <h2><b>💪Skills </b></h2><br><br>
 
 -JAVA<br><br>
--HTML<br><br>
--CSS<br><br>
--JavaScript<br><br>
+-HTML/CSS/JS<br><br>
+-React JS/ Node JS<br><br>
+-SQL<br><br>
+-MongoDB<br><br>
 -Tableau<br><br>
+-PowerBI<br><br>
 </body><br><br>
 
 <footer>
