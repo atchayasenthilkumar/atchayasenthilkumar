@@ -63,10 +63,8 @@
 -JAVA<br><br>
 -HTML/CSS/JS<br><br>
 -React JS/ Node JS<br><br>
--SQL<br><br>
--MongoDB<br><br>
--Tableau<br><br>
--PowerBI<br><br>
+-SQL/MongoDB<br><br>
+-Tableau/PowerBI<br><br>
 
 </body><br>
 
