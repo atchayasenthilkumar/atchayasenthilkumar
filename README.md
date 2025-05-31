@@ -1,11 +1,21 @@
- <header> <b>👋Hi,I’m Atchayasenthilkumar✨</b>
+ <style>
+    button {
+      padding: 10px 20px;
+      background-color: #243b55;
+      color: white;
+      border: none;
+      cursor: pointer;
+    }
+  </style>
+  <header> <b>👋Hi,I’m Atchayasenthilkumar✨</b>
 
 </header><br><br><br>
 <body>
+<bg color = "grey">
  👀 I’m CS passionate about building interactive and user-friendly applications. I specialize in webdevelopment💻 and data analytics📈. <br><br>
  🌱 I’m currently doing my UG degree in Computer Science at KRCE.<br><br>
 
- <h2><b>📜Certifications</b></h2><br>
+<h2><b>📜Certifications</b></h2><br>
 
 -Introduction of internet of things<br><br>
 -AWS Cloud Practitioner<br><br>
@@ -69,6 +79,9 @@
 </body><br>
 
 <footer>
-  Follow me on linkedin
-  🔗https://www.linkedin.com/in/atchaya-senthilkumar-6ba9ab257
+  Contact me
+  <button onclick="location.href='https://www.linkedin.com/in/atchaya-senthilkumar-6ba9ab257'">linkedin</button>
+  <button onclick="location.href='https://www.instagram.com/atchaya__senthilkumar/'">instagram</button>
+  <button onclick="location.href='mailto:atchayasenthilkumar2004@gmail.com'">Email</button>
+ 
 </footer>
