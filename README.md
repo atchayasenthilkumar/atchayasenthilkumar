@@ -72,8 +72,7 @@
 <footer>
  
   🔗Contact me<br><br>
-  <button onclick="location.href='https://www.linkedin.com/in/atchaya-senthilkumar-6ba9ab257'">linkedin</button><br><br>
-  <button onclick="location.href='https://www.instagram.com/atchaya__senthilkumar/'">instagram</button><br><br>
-  <button onclick="location.href='mailto:atchayasenthilkumar2004@gmail.com'">Email</button><br><br>
+   https://www.linkedin.com/in/atchaya-senthilkumar-6ba9ab257
+  
  
 </footer>
