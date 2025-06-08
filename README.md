@@ -71,7 +71,7 @@
 
 <footer>
  
-  🔗Contact me<br><br>
+ <h2>🔗Contact me </h2><br><br>
    https://www.linkedin.com/in/atchaya-senthilkumar-6ba9ab257
   
  
